@@ -63,3 +63,5 @@ Notes:
 ## License
 
 MIT — inherited from upstream blutter (© Worawit Wangwarunyoo). See `LICENSE`.
+
+# sync trigger
